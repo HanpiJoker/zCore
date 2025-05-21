@@ -1,3 +1,0 @@
-(function() {var implementors = {};
-implementors["linux_object"] = [{"text":"impl INode for Pipe","synthetic":false,"types":[]},{"text":"impl INode for Pseudo","synthetic":false,"types":[]},{"text":"impl INode for RandomINode","synthetic":false,"types":[]},{"text":"impl INode for Stdin","synthetic":false,"types":[]},{"text":"impl INode for Stdout","synthetic":false,"types":[]}];
-if (window.register_implementors) {window.register_implementors(implementors);} else {window.pending_implementors = implementors;}})()

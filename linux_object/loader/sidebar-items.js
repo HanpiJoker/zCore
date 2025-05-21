@@ -1,1 +1,1 @@
-initSidebarItems({"struct":[["LinuxElfLoader","Linux ELF Program Loader."]]});
+window.SIDEBAR_ITEMS = {"struct":[["LinuxElfLoader","Linux ELF Program Loader."]]};
